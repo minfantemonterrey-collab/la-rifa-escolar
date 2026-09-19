@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "La Rifa Escolar": "github:minfantemonterrey-collab/la-rifa-escolar#v0.0.1"
     },
     "files": [
         "main.blocks",
