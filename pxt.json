@@ -1,12 +1,12 @@
 {
     "name": "La Rifa Escolar",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "La Rifa Escolar": "github:minfantemonterrey-collab/la-rifa-escolar#v0.0.1"
+        "La Rifa Escolar": "github:minfantemonterrey-collab/la-rifa-escolar"
     },
     "files": [
         "main.blocks",
